@@ -1,0 +1,6 @@
+com\rakesh\spring\batch\config\CustomerProcessor.class
+com\rakesh\spring\batch\config\SpringBatchConfig.class
+com\rakesh\spring\batch\controller\JobController.class
+com\rakesh\spring\batch\entity\Customer.class
+com\rakesh\spring\batch\BatchProcessingDemoApplication.class
+com\rakesh\spring\batch\repository\CustomerRepository.class

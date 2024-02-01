@@ -1,0 +1,6 @@
+D:\WorkSpace\Refeence Projects\spring-batch-example-javaTechie\src\main\java\com\rakesh\spring\batch\BatchProcessingDemoApplication.java
+D:\WorkSpace\Refeence Projects\spring-batch-example-javaTechie\src\main\java\com\rakesh\spring\batch\config\CustomerProcessor.java
+D:\WorkSpace\Refeence Projects\spring-batch-example-javaTechie\src\main\java\com\rakesh\spring\batch\entity\Customer.java
+D:\WorkSpace\Refeence Projects\spring-batch-example-javaTechie\src\main\java\com\rakesh\spring\batch\repository\CustomerRepository.java
+D:\WorkSpace\Refeence Projects\spring-batch-example-javaTechie\src\main\java\com\rakesh\spring\batch\controller\JobController.java
+D:\WorkSpace\Refeence Projects\spring-batch-example-javaTechie\src\main\java\com\rakesh\spring\batch\config\SpringBatchConfig.java
